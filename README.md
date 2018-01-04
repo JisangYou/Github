@@ -4,8 +4,9 @@
 
 ## 내용
 
--  hello git Repository!
--  simple example for git
+- hello git Repository!
+- hello Readme!!
+- simple example for git
 
 ## TODO
 
