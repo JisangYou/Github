@@ -5,6 +5,7 @@
 ## 내용
 
 -  hello git Repository!
+-  simple example for git
 
 ## TODO
 
