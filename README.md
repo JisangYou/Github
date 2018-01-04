@@ -1,14 +1,10 @@
 # Hello Github 
 
+- 2017/09/04 시작!
+
 ## 내용
 
 -  hello git Repository!
-
-## Code Review
-- 생략
-
-## 보충설명
-- 생략
 
 ## TODO
 
